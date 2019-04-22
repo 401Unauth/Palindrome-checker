@@ -1,6 +1,6 @@
 # Palindrome-checker
    This is a simple bit of javascript that checks if the provided word is a palindrome. Shell, python, and php implementations coming soon.
-## What's going on in the code?
+## What does the code do?
 #### Javascript (.js)
    First, the javascript reverses the original string sent to it. After that, it checks to see if the reversed string and the original string are the same, then logs the output in the console.
 ## Resources used:
