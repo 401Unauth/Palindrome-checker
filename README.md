@@ -7,4 +7,5 @@ According to Wikipedia:
 #### Main Idea (Applies to all programs)
    First, the program reverses the original string sent to it. After that, it checks to see if the reversed string and the original string are the same, then logs the the output.
 ## Resources used:
+   Resources are usually added to comments in the code
   https://medium.freecodecamp.org/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb
