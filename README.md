@@ -1,5 +1,5 @@
 # Palindrome-checker
-   This is a simple bit of javascript and python that checks if the provided word is a palindrome. Shell and php implementations coming soon.
+   These are simple snippets of code that when run can distinguish between words that are not a palindrome and those that are palindromes.
 ## What is a palindrome?
 According to Wikipedia:
 > A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward
