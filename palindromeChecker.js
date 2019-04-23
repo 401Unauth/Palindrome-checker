@@ -10,5 +10,5 @@ function checkIfPalindrome(string) {
   }
 }
 
-checkIfPalindrome("racecar"); //Palindrome
-checkIfPalindrome("401Unauth"); //Not a palindrome
+checkIfPalindrome("Racecar"); //Palindrome
+checkIfPalindrome("Palindrome"); //Not a palindrome
