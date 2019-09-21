@@ -7,7 +7,7 @@
 using namespace std;
 
 // Prototype declaration
-char palindromeChecker(char String[]);
+void palindromeChecker(char String[]);
 
 int main(int nNumberOfArgs, char* pszArgs[]){
  char String[128];
