@@ -21,7 +21,7 @@ int main(int nNumberOfArgs, char* pszArgs[]){
  return 0;
 }
 
-char palindromeChecker(char String[]){
+void palindromeChecker(char String[]){
  int flag = 0;
  int len = 0;
  while(String[len]){
